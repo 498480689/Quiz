@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">叫我爸爸</string>
+    <string name="bird_question">小太阳鸟小？</string>
+    <string name="caca_question">撸小姐喜欢💩？</string>
+    <string name="insects">有些在中国的虫的血可以穿透铁</string>
+    <string name="nose">人类嗅觉可分辨超过一兆种不一样的味道</string>
+    <string name="satellite">在弗罗里达，在房顶上放卫星是违法的</string>
+    <string name="school">你的粑粑麻麻知道你很菜吗</string>
+    <string name="sun">太阳系百分之99.8的重量都是太阳</string>
+    <string name="tattoo">纹身用的墨是葡萄汁</string>
+    <string name="Oxford">牛津大学创始日比阿字塔克王国早</string>
+    <string name="text_false">否</string>
+    <string name="worm">如果你把蠕虫切成两段，那两段可以长成新的身体</string>
+    <string name="text_true">是</string>
+</resources>

@@ -4,4 +4,13 @@
     <string name="text_true">TRUE</string>
     <string name="caca_question">tony lu likes caca</string>
     <string name="bird_question">little sun bird small?</string>
+    <string name="school">Do your parents know that you are getting Fs in school?</string>
+    <string name="sun">The sun makes up 99.8% of the mass of our solar system</string>
+    <string name="Oxford">Oxford University in England predates the Aztec Empire</string>
+    <string name="satellite">You cannot legally put a satellite dish on the roof of a residential home in Florida.</string>
+    <string name="insects">Some insects in China have acid blood that can burn metal</string>
+    <string name="tattoo">Most ink used for tattoos is derived from grape juice</string>
+    <string name="worm">If you cut an earthworm in half, both hales can regrow their body</string>
+    <string name="nose">Human can distinguish between over a trillion different smells.</string>
+    <string name="title_activity_end">endActivity</string>
 </resources>

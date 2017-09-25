@@ -22,7 +22,7 @@ public class Question {
     }
 
     public boolean checkAnswer(boolean userAnswer){
-        return answer = userAnswer;
+        return answer == userAnswer;
 
 
     }
